@@ -10,7 +10,7 @@ This repository contains personal branding files such as:
 ## 🔗 Usage
 
 To use these images in your other projects, copy the raw GitHub URLs like:
-
+https://raw.githubusercontent.com/TheBusyLeopard/thebusyleopard-assets/refs/heads/main/bl_logo.jpg
 
 
 
